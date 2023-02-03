@@ -1,0 +1,7 @@
+{
+  "name": "ionicmenugrid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
